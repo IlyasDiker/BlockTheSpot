@@ -3,7 +3,7 @@
 <center>
   <h1 align="center">BlockTheSpot</h1>
   <h4 align="center">A multi-purpose adblocker and skip bypass for the <strong>Windows</strong> Spotify Desktop Application.</h4>
-  <h5 align="center">Please support Spotify by purchasing premium or use this if you were scammed by spotify & you don't have any alternative</h5>
+  <h5 align="center"> [Ad-blocking is legal](https://www.zdnet.com/article/adblock-plus-scores-big-legal-win-it-doesnt-break-antitrust-law-court-rules/) and everyone has the right to ad-block the website/service.</h5>
   <p align="center">
     <strong>Last updated:</strong> 3 June 2020<br>
     <strong>Last tested version:</strong> 1.1.34.694.gac68a2b3
