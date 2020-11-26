@@ -5,7 +5,7 @@
   <h4 align="center">A multi-purpose adblocker and skip bypass for the <strong>Windows</strong> Spotify Desktop Application.</h4>
   <h5 align="center"> <a href="https://www.zdnet.com/article/adblock-plus-scores-big-legal-win-it-doesnt-break-antitrust-law-court-rules/">Ad-blocking is legal</a> and everyone has the right to ad-block the website/service.</h5>
   <p align="center">
-    <strong>Last updated:</strong> 20 November 2020<br>
+    <strong>Last updated:</strong> 26 November 2020<br>
     <strong>Last tested version:</strong> 1.1.45.916 <a href="https://github.com/IlyasDiker/BlockTheSpot/releases/tag/20.11-2020">View Release</a>
   <h4 align="center">Important!!</h4>
  * Do Windows Update/Patch<br>
